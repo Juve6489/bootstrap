@@ -7,3 +7,6 @@ div class="col-md-4 sm-4" cuando la pantalla sea mediana es de 4 grillas y cuand
 copia de nav desde bootstrap
 nav class="navbar navbar-expand-lg bg-body-tertiary", cambia la posición de las cosas al llegar al tamaño LG, expand 991px.
  navbar-expand-lg, es el que da la posicion ,tamaño de las letras, color de texto, si se elimina, el nav matiene su posicion resumida y no se expande.
+bg-body-tertiary, es el color del background, 
+a class="navbar-brand" href="#">Mi empresa, para cambiar el titulo del NAV
+span class="navbar-toggler-icon", Muestra el texto un poco mas fuerte...
